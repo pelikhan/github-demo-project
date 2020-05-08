@@ -1,6 +1,8 @@
 
 > Open this page at [https://pelikhan.github.io/github-demo-project/](https://pelikhan.github.io/github-demo-project/)
 
+This is a little project that will count how many times you pressed A on a micro:bit.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -17,13 +19,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/pelikhan/github-demo-project** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/pelikhan/github-demo-project/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
